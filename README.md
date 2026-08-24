@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | java | [`Easy/26-remove-duplicates-from-sorted-array.java`](Easy/26-remove-duplicates-from-sorted-array.java) |
 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | java | [`Easy/258-add-digits.java`](Easy/258-add-digits.java) |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | java | [`Easy/9-palindrome-number.java`](Easy/9-palindrome-number.java) |
 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | java | [`Medium/204-count-primes.java`](Medium/204-count-primes.java) |
