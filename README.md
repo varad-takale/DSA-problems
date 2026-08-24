@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | java | [`Medium/122-best-time-to-buy-and-sell-stock-ii.java`](Medium/122-best-time-to-buy-and-sell-stock-ii.java) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | java | [`Easy/121-best-time-to-buy-and-sell-stock.java`](Easy/121-best-time-to-buy-and-sell-stock.java) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | java | [`Easy/26-remove-duplicates-from-sorted-array.java`](Easy/26-remove-duplicates-from-sorted-array.java) |
 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | java | [`Easy/258-add-digits.java`](Easy/258-add-digits.java) |
