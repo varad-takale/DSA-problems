@@ -1,0 +1,26 @@
+// 66. Plus One (Easy)
+// https://leetcode.com/problems/plus-one/
+// Runtime: 0 ms  Memory: 43.4 MB
+class Solution {
+    public int[] plusOne(int[] digits) {
+        for(int i = digits.length-1;i>=0;i=i-1){
+            if(digits[i] == 9){
+                digits[i] = 0;
+            }else
+            {
+                digits[i] = digits[i] +1;
+                return digits;
+            }
+
+            
+        }
+
+         int res[] = new int[digits.length +1];
+        res[0] = 1;
+        return res;
+
+
+        }
+       
+    }
+
