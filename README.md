@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | java | [`Easy/349-intersection-of-two-arrays.java`](Easy/349-intersection-of-two-arrays.java) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | java | [`Easy/136-single-number.java`](Easy/136-single-number.java) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | java | [`Easy/217-contains-duplicate.java`](Easy/217-contains-duplicate.java) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | java | [`Medium/189-rotate-array.java`](Medium/189-rotate-array.java) |
