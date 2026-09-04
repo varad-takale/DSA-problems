@@ -1,17 +1,26 @@
 // 1. Two Sum (Easy)
 // https://leetcode.com/problems/two-sum/
-// Runtime: 49 ms  Memory: 46.8 MB
+// Runtime: 2 ms  Memory: 46.9 MB
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-          int[]ans=new int[2];
-       for(int i=0;i<nums.length;i++){
-        for(int j=i+1;j<nums.length;j++){
-            if(nums[i]+nums[j]==target){
-                ans[0]=i;
-                ans[1]=j;
+        Map<Integer , Integer>map = new HashMap<>();
+        for(int i = 0;i<nums.length;i++){
+            int lookupnumber = target - nums[i];
+
+            if(map.containsKey(lookupnumber)){
+                return new int []{
+                    i,
+                    map.get(lookupnumber)
+                    
+                    
+                };
+                
             }
+             map.put(nums[i],i);
+           
         }
-       } 
-       return ans;
+        return new int[]{-1-1};
+        
     }
 }
+
