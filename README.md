@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | java | [`Medium/48-rotate-image.java`](Medium/48-rotate-image.java) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | java | [`Medium/36-valid-sudoku.java`](Medium/36-valid-sudoku.java) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | java | [`Easy/283-move-zeroes.java`](Easy/283-move-zeroes.java) |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | java | [`Easy/66-plus-one.java`](Easy/66-plus-one.java) |
