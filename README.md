@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | java | [`Easy/387-first-unique-character-in-a-string.java`](Easy/387-first-unique-character-in-a-string.java) |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | java | [`Easy/344-reverse-string.java`](Easy/344-reverse-string.java) |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | java | [`Medium/48-rotate-image.java`](Medium/48-rotate-image.java) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | java | [`Medium/36-valid-sudoku.java`](Medium/36-valid-sudoku.java) |
