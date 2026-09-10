@@ -1,10 +1,14 @@
 // 242. Valid Anagram (Easy)
 // https://leetcode.com/problems/valid-anagram/
-// Runtime: 2 ms  Memory: 44.9 MB
+// Runtime: 3 ms  Memory: 44.7 MB
 class Solution {
     public boolean isAnagram(String s, String t) {
 
         int[] freq = new int[26];
+
+        if(s.length() != t.length()){
+            return false;
+        }
 
         for(char c : s.toCharArray()){
 
