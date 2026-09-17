@@ -1,6 +1,6 @@
 // 242. Valid Anagram (Easy)
 // https://leetcode.com/problems/valid-anagram/
-// Runtime: 3 ms  Memory: 44.7 MB
+// Runtime: 2 ms  Memory: 44.7 MB
 class Solution {
     public boolean isAnagram(String s, String t) {
 
