@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | java | [`Easy/485-max-consecutive-ones.java`](Easy/485-max-consecutive-ones.java) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | java | [`Easy/242-valid-anagram.java`](Easy/242-valid-anagram.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | java | [`Easy/387-first-unique-character-in-a-string.java`](Easy/387-first-unique-character-in-a-string.java) |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | java | [`Easy/344-reverse-string.java`](Easy/344-reverse-string.java) |
