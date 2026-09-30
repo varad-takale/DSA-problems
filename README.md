@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [1168. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | java | [`Easy/1168-duplicate-zeros.java`](Easy/1168-duplicate-zeros.java) |
 | [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | java | [`Easy/1019-squares-of-a-sorted-array.java`](Easy/1019-squares-of-a-sorted-array.java) |
 | [1421. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | java | [`Easy/1421-find-numbers-with-even-number-of-digits.java`](Easy/1421-find-numbers-with-even-number-of-digits.java) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | java | [`Easy/485-max-consecutive-ones.java`](Easy/485-max-consecutive-ones.java) |
