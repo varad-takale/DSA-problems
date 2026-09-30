@@ -1,6 +1,6 @@
 // 36. Valid Sudoku (Medium)
 // https://leetcode.com/problems/valid-sudoku/
-// Runtime: 1 ms  Memory: 46.1 MB
+// Runtime: 1 ms  Memory: 45.7 MB
 class Solution {
     public boolean isValidSudoku(char[][] board) {
         int row [][] = new int [9][9];
