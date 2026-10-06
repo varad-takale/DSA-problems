@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [978. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | java | [`Easy/978-valid-mountain-array.java`](Easy/978-valid-mountain-array.java) |
 | [1468. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | java | [`Easy/1468-check-if-n-and-its-double-exist.java`](Easy/1468-check-if-n-and-its-double-exist.java) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | java | [`Easy/27-remove-element.java`](Easy/27-remove-element.java) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | java | [`Easy/88-merge-sorted-array.java`](Easy/88-merge-sorted-array.java) |
