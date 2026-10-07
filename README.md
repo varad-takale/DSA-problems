@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [941. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | java | [`Easy/941-sort-array-by-parity.java`](Easy/941-sort-array-by-parity.java) |
 | [1231. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | java | [`Easy/1231-replace-elements-with-greatest-element-on-right-side.java`](Easy/1231-replace-elements-with-greatest-element-on-right-side.java) |
 | [978. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | java | [`Easy/978-valid-mountain-array.java`](Easy/978-valid-mountain-array.java) |
 | [1468. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | java | [`Easy/1468-check-if-n-and-its-double-exist.java`](Easy/1468-check-if-n-and-its-double-exist.java) |
