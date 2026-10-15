@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | java | [`Easy/414-third-maximum-number.java`](Easy/414-third-maximum-number.java) |
 | [1137. Height Checker](https://leetcode.com/problems/height-checker/) | Easy | java | [`Easy/1137-height-checker.java`](Easy/1137-height-checker.java) |
 | [941. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | java | [`Easy/941-sort-array-by-parity.java`](Easy/941-sort-array-by-parity.java) |
 | [1231. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | java | [`Easy/1231-replace-elements-with-greatest-element-on-right-side.java`](Easy/1231-replace-elements-with-greatest-element-on-right-side.java) |
