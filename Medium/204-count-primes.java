@@ -1,18 +1,17 @@
 // 204. Count Primes (Medium)
 // https://leetcode.com/problems/count-primes/
-// Runtime: 102 ms  Memory: 51.2 MB
+// Runtime: 114 ms  Memory: 50.7 MB
 class Solution {
     public int countPrimes(int n) {
-        if (n <= 2) return 0;
+        if (n <= 2)
+            return 0;
 
         boolean[] isPrime = new boolean[n];
 
-    
         for (int i = 2; i < n; i++) {
             isPrime[i] = true;
         }
 
-        
         for (int i = 2; i * i < n; i++) {
             if (isPrime[i]) {
                 for (int j = i * i; j < n; j += i) {
