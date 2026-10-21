@@ -1,11 +1,11 @@
 // 88. Merge Sorted Array (Easy)
 // https://leetcode.com/problems/merge-sorted-array/
-// Runtime: 4 ms  Memory: 43.7 MB
+// Runtime: 4 ms  Memory: 43.6 MB
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for (int i = 0; i < n; i++) {
-            nums1[i + m] = nums2[i];
-        }
-        Arrays.sort(nums1);
+       for(int i = 0; i<n ; i++){
+        nums1[i + m] = nums2[i];
+       } 
+       Arrays.sort(nums1);
     }
 }
