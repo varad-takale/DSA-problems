@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | java | [`Easy/724-find-pivot-index.java`](Easy/724-find-pivot-index.java) |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | java | [`Easy/414-third-maximum-number.java`](Easy/414-third-maximum-number.java) |
 | [1137. Height Checker](https://leetcode.com/problems/height-checker/) | Easy | java | [`Easy/1137-height-checker.java`](Easy/1137-height-checker.java) |
 | [941. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | java | [`Easy/941-sort-array-by-parity.java`](Easy/941-sort-array-by-parity.java) |
