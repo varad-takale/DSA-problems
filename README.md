@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | java | [`Easy/219-contains-duplicate-ii.java`](Easy/219-contains-duplicate-ii.java) |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | java | [`Easy/35-search-insert-position.java`](Easy/35-search-insert-position.java) |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | java | [`Easy/268-missing-number.java`](Easy/268-missing-number.java) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | java | [`Easy/169-majority-element.java`](Easy/169-majority-element.java) |
