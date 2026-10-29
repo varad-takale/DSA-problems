@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | java | [`Easy/448-find-all-numbers-disappeared-in-an-array.java`](Easy/448-find-all-numbers-disappeared-in-an-array.java) |
 | [1848. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | java | [`Easy/1848-sum-of-unique-elements.java`](Easy/1848-sum-of-unique-elements.java) |
 | [1510. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy | java | [`Easy/1510-find-lucky-integer-in-an-array.java`](Easy/1510-find-lucky-integer-in-an-array.java) |
 | [748. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | java | [`Easy/748-largest-number-at-least-twice-of-others.java`](Easy/748-largest-number-at-least-twice-of-others.java) |
