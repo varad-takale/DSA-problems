@@ -1,6 +1,6 @@
 // 1848. Sum of Unique Elements (Easy)
 // https://leetcode.com/problems/sum-of-unique-elements/
-// Runtime: 1 ms  Memory: 42.3 MB
+// Runtime: 2 ms  Memory: 42.7 MB
 class Solution {
     public int sumOfUnique(int[] nums) {
         int n = nums.length;
