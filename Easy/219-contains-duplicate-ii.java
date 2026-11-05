@@ -1,6 +1,6 @@
 // 219. Contains Duplicate II (Easy)
 // https://leetcode.com/problems/contains-duplicate-ii/
-// Runtime: 39 ms  Memory: 124.5 MB
+// Runtime: 31 ms  Memory: 124.5 MB
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         int n = nums.length;
