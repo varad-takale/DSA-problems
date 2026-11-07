@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [2350. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy | java | [`Easy/2350-find-closest-number-to-zero.java`](Easy/2350-find-closest-number-to-zero.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | java | [`Easy/448-find-all-numbers-disappeared-in-an-array.java`](Easy/448-find-all-numbers-disappeared-in-an-array.java) |
 | [1848. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | java | [`Easy/1848-sum-of-unique-elements.java`](Easy/1848-sum-of-unique-elements.java) |
 | [1510. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy | java | [`Easy/1510-find-lucky-integer-in-an-array.java`](Easy/1510-find-lucky-integer-in-an-array.java) |
