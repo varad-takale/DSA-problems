@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [1319. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | java | [`Easy/1319-unique-number-of-occurrences.java`](Easy/1319-unique-number-of-occurrences.java) |
 | [1018. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | java | [`Easy/1018-largest-perimeter-triangle.java`](Easy/1018-largest-perimeter-triangle.java) |
 | [2350. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy | java | [`Easy/2350-find-closest-number-to-zero.java`](Easy/2350-find-closest-number-to-zero.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | java | [`Easy/448-find-all-numbers-disappeared-in-an-array.java`](Easy/448-find-all-numbers-disappeared-in-an-array.java) |
