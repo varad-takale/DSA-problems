@@ -1,6 +1,6 @@
 // 58. Length of Last Word (Easy)
 // https://leetcode.com/problems/length-of-last-word/
-// Runtime: 0 ms  Memory: 42.3 MB
+// Runtime: 0 ms  Memory: 41.4 MB
 class Solution {
     public int lengthOfLastWord(String s) {
         int count = 0;
@@ -10,13 +10,11 @@ class Solution {
                 if (count > 0) {
                     break;
                 }
-
             }
 
             else {
                 count++;
             }
-
         }
 
         return count;
