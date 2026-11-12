@@ -5,6 +5,7 @@ _Synced automatically by LeetCode → GitHub Sync._
 | Problem | Difficulty | Language | Solution |
 |---|---|---|---|
 <!-- leetcode-github-sync:table -->
+| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | java | [`Easy/58-length-of-last-word.java`](Easy/58-length-of-last-word.java) |
 | [1319. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | java | [`Easy/1319-unique-number-of-occurrences.java`](Easy/1319-unique-number-of-occurrences.java) |
 | [1018. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | java | [`Easy/1018-largest-perimeter-triangle.java`](Easy/1018-largest-perimeter-triangle.java) |
 | [2350. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy | java | [`Easy/2350-find-closest-number-to-zero.java`](Easy/2350-find-closest-number-to-zero.java) |
